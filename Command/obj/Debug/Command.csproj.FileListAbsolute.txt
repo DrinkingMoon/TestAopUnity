@@ -1,0 +1,16 @@
+E:\workspace\VisualStudioProjects\TestAopUnity\Command\bin\Debug\Command.dll
+E:\workspace\VisualStudioProjects\TestAopUnity\Command\bin\Debug\Command.pdb
+E:\workspace\VisualStudioProjects\TestAopUnity\Command\obj\Debug\Command.csproj.CoreCompileInputs.cache
+E:\workspace\VisualStudioProjects\TestAopUnity\Command\obj\Debug\Command.dll
+E:\workspace\VisualStudioProjects\TestAopUnity\Command\obj\Debug\Command.pdb
+E:\workspace\VisualStudioProjects\TestAopUnity\Command\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\workspace\VisualStudioProjects\TestAopUnity\Command\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\workspace\VisualStudioProjects\TestAopUnity\Command\bin\Debug\Unity.Abstractions.dll
+E:\workspace\VisualStudioProjects\TestAopUnity\Command\bin\Debug\Unity.Configuration.dll
+E:\workspace\VisualStudioProjects\TestAopUnity\Command\bin\Debug\Unity.Container.dll
+E:\workspace\VisualStudioProjects\TestAopUnity\Command\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\workspace\VisualStudioProjects\TestAopUnity\Command\bin\Debug\System.Threading.Tasks.Extensions.xml
+E:\workspace\VisualStudioProjects\TestAopUnity\Command\bin\Debug\Unity.Abstractions.pdb
+E:\workspace\VisualStudioProjects\TestAopUnity\Command\bin\Debug\Unity.Configuration.pdb
+E:\workspace\VisualStudioProjects\TestAopUnity\Command\bin\Debug\Unity.Container.pdb
+E:\workspace\VisualStudioProjects\TestAopUnity\Command\obj\Debug\Command.csproj.CopyComplete

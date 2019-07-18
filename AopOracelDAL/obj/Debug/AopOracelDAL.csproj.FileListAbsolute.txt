@@ -1,0 +1,9 @@
+E:\workspace\VisualStudioProjects\TestAopUnity\AopOracelDAL\bin\Debug\AopOracelDAL.dll
+E:\workspace\VisualStudioProjects\TestAopUnity\AopOracelDAL\bin\Debug\AopOracelDAL.pdb
+E:\workspace\VisualStudioProjects\TestAopUnity\AopOracelDAL\bin\Debug\IAopDAL.dll
+E:\workspace\VisualStudioProjects\TestAopUnity\AopOracelDAL\bin\Debug\IAopDAL.pdb
+E:\workspace\VisualStudioProjects\TestAopUnity\AopOracelDAL\obj\Debug\AopOracelDAL.csprojAssemblyReference.cache
+E:\workspace\VisualStudioProjects\TestAopUnity\AopOracelDAL\obj\Debug\AopOracelDAL.csproj.CoreCompileInputs.cache
+E:\workspace\VisualStudioProjects\TestAopUnity\AopOracelDAL\obj\Debug\AopOracelDAL.csproj.CopyComplete
+E:\workspace\VisualStudioProjects\TestAopUnity\AopOracelDAL\obj\Debug\AopOracelDAL.dll
+E:\workspace\VisualStudioProjects\TestAopUnity\AopOracelDAL\obj\Debug\AopOracelDAL.pdb
