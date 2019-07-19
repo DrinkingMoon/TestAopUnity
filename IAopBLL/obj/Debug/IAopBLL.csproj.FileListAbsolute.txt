@@ -1,5 +1,0 @@
-E:\workspace\VisualStudioProjects\TestAopUnity\IAopBLL\bin\Debug\IAopBLL.dll
-E:\workspace\VisualStudioProjects\TestAopUnity\IAopBLL\bin\Debug\IAopBLL.pdb
-E:\workspace\VisualStudioProjects\TestAopUnity\IAopBLL\obj\Debug\IAopBLL.csproj.CoreCompileInputs.cache
-E:\workspace\VisualStudioProjects\TestAopUnity\IAopBLL\obj\Debug\IAopBLL.dll
-E:\workspace\VisualStudioProjects\TestAopUnity\IAopBLL\obj\Debug\IAopBLL.pdb

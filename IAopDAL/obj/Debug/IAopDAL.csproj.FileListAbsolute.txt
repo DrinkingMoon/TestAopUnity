@@ -1,5 +1,0 @@
-E:\workspace\VisualStudioProjects\TestAopUnity\IAopDAL\bin\Debug\IAopDAL.dll
-E:\workspace\VisualStudioProjects\TestAopUnity\IAopDAL\bin\Debug\IAopDAL.pdb
-E:\workspace\VisualStudioProjects\TestAopUnity\IAopDAL\obj\Debug\IAopDAL.csproj.CoreCompileInputs.cache
-E:\workspace\VisualStudioProjects\TestAopUnity\IAopDAL\obj\Debug\IAopDAL.dll
-E:\workspace\VisualStudioProjects\TestAopUnity\IAopDAL\obj\Debug\IAopDAL.pdb

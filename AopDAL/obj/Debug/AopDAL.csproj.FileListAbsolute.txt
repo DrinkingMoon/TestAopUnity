@@ -1,8 +1,0 @@
-E:\workspace\VisualStudioProjects\TestAopUnity\AopDAL\bin\Debug\AopDAL.dll
-E:\workspace\VisualStudioProjects\TestAopUnity\AopDAL\bin\Debug\AopDAL.pdb
-E:\workspace\VisualStudioProjects\TestAopUnity\AopDAL\bin\Debug\IAopDAL.dll
-E:\workspace\VisualStudioProjects\TestAopUnity\AopDAL\bin\Debug\IAopDAL.pdb
-E:\workspace\VisualStudioProjects\TestAopUnity\AopDAL\obj\Debug\AopDAL.csproj.CoreCompileInputs.cache
-E:\workspace\VisualStudioProjects\TestAopUnity\AopDAL\obj\Debug\AopDAL.csproj.CopyComplete
-E:\workspace\VisualStudioProjects\TestAopUnity\AopDAL\obj\Debug\AopDAL.dll
-E:\workspace\VisualStudioProjects\TestAopUnity\AopDAL\obj\Debug\AopDAL.pdb
